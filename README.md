@@ -38,6 +38,23 @@ Todo el contenido que esta en la p+agina principal es dinámico.
 
 ---
 
+## 🛠️ Desarrollo del Proyecto
+Este proyecto fue desarrollado durante un período de **6 meses**, utilizando el marco de trabajo **Scrum** para la gestión ágil del equipo y las tareas. 
+
+---
+
+## 🌐 Accede al Sistema
+
+¡Explora el sistema en línea y descubre todas sus funcionalidades! Haz clic en el enlace para visitarlo:
+
+<p align="center">
+  <a href="https://ccbol2024.usfx.bo" target="_blank">
+    <img src="https://img.shields.io/badge/Sistema%20en%20Línea-CCBOL2024-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Enlace al Sistema">
+  </a>
+</p>
+
+---
+
 ## 🚀 Mi Contribución
 En este proyecto desempeñé los siguientes roles clave:
 - 👨‍💻 **Desarrollo**: Participación activa utilizando las tecnologías descritas.
@@ -106,12 +123,20 @@ A continuación, una galería de las principales funcionalidades del sistema. Ha
   <a href="screenshots/screenshots12.png" target="_blank">
     <img src="screenshots/screenshots12.png" alt="Captura del Sistema" width="250">
   </a>
+  <a href="screenshots/screenshots13.png" target="_blank">
+    <img src="screenshots/screenshots13.png" alt="Captura del Sistema" width="250">
+  </a>
+  <a href="screenshots/screenshots14.png" target="_blank">
+    <img src="screenshots/screenshots14.png" alt="Captura del Sistema" width="250">
+  </a>
 </p>
 
 ---
 
-## ❗ Nota Importante
-Por motivos de confidencialidad, no puedo compartir el código fuente de este proyecto. Sin embargo, estaré encantado de discutir más sobre mi participación, el proceso de desarrollo y el impacto del sistema.
+> [!NOTE]
+> **Nota Importante**
+> 
+> Por motivos de confidencialidad, no puedo compartir el código fuente de este proyecto. Sin embargo, estaré encantado de discutir más sobre mi participación, el proceso de desarrollo y el impacto del sistema.
 
 ---
 
