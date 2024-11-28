@@ -7,7 +7,7 @@ _Rol en el proyecto_: Desarrollador Full stack y organizador del equipo.
 ---
 
 ## 📝 Descripción del Proyecto
-El proyecto consistió en el desarrollo de una página web integral para la gestión y acreditación del Congreso Nacional de Ciencias de la Computación (CCBOL2024), realizado del **30 de septiembre al 4 de octubre de 2024**. El sistema permitió la inscripción y administración de participantes, expositores y organizadores, así como la generación de certificados digitales con verificación mediante la DTIC(USFX) y blockchain(SIESAM).
+El proyecto consistió en el desarrollo de una página web integral para la gestión y acreditación del Congreso Nacional de Ciencias de la Computación (CCBOL2024), realizado del **30 de septiembre al 4 de octubre de 2024**. El sistema permitió la inscripción y administración de participantes, expositores y organizadores, así como la generación de certificados digitales con verificación mediante la [DTIC (USFX)](https://dtic.usfx.bo/) y [Blockchain (SIESAM)](https://siesam.com.bo/).
 
 ### 🎯 Características del Proyecto
 #### Participantes
@@ -45,13 +45,7 @@ Este proyecto fue desarrollado durante un período de **6 meses**, utilizando el
 
 ## 🌐 Accede al Sistema
 
-¡Explora el sistema en línea y descubre todas sus funcionalidades! Haz clic en el enlace para visitarlo:
-
-<p align="center">
-  <a href="https://ccbol2024.usfx.bo" target="_blank">
-    <img src="https://img.shields.io/badge/Sistema%20en%20Línea-CCBOL2024-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Enlace al Sistema">
-  </a>
-</p>
+¡Explora el sistema en línea y descubre todas sus funcionalidades! Haz clic en el enlace para visitarlo:  [CCBOL2024](https://ccbol2024.usfx.bo/)
 
 ---
 
