@@ -66,13 +66,47 @@ En este proyecto desempeñé los siguientes roles clave:
 ---
 
 ## 📸 Imágenes del Sistema
-Agrega imágenes de las siguientes funcionalidades para destacar el sistema:
-- **Landing Page**: Cronograma y actividades.
-- **Perfil del participante**: Vista de cuotas y certificados.
-- **Dashboard**: Gestión administrativa.
 
-Sugerencia: Sube las imágenes a una carpeta llamada `screenshots` en tu repositorio. Luego, puedes enlazarlas así:  
-`![Descripción de la imagen](screenshots/nombre_imagen.png)`
+A continuación, una galería de las principales funcionalidades del sistema. Haz clic en las miniaturas para verlas en tamaño completo.
+
+<p align="center">
+  <a href="screenshots/screenshots01.png" target="_blank">
+    <img src="screenshots/screenshots01.png" alt="Captura del Sistema" width="250">
+  </a>
+  <a href="screenshots/screenshots02.png" target="_blank">
+    <img src="screenshots/screenshots02.png" alt="Captura del Sistema" width="250">
+  </a>
+  <a href="screenshots/screenshots03.png" target="_blank">
+    <img src="screenshots/screenshots03.png" alt="Captura del Sistema" width="250">
+  </a>
+  <a href="screenshots/screenshots04.png" target="_blank">
+    <img src="screenshots/screenshots04.png" alt="Captura del Sistema" width="250">
+  </a>
+  <a href="screenshots/screenshots05.png" target="_blank">
+    <img src="screenshots/screenshots05.png" alt="Captura del Sistema" width="250">
+  </a>
+  <a href="screenshots/screenshots06.png" target="_blank">
+    <img src="screenshots/screenshots06.png" alt="Captura del Sistema" width="250">
+  </a>
+  <a href="screenshots/screenshots07.png" target="_blank">
+    <img src="screenshots/screenshots07.png" alt="Captura del Sistema" width="250">
+  </a>
+  <a href="screenshots/screenshots08.png" target="_blank">
+    <img src="screenshots/screenshots08.png" alt="Captura del Sistema" width="250">
+  </a>
+  <a href="screenshots/screenshots09.png" target="_blank">
+    <img src="screenshots/screenshots09.png" alt="Captura del Sistema" width="250">
+  </a>
+  <a href="screenshots/screenshots10.png" target="_blank">
+    <img src="screenshots/screenshots10.png" alt="Captura del Sistema" width="250">
+  </a>
+  <a href="screenshots/screenshots11.png" target="_blank">
+    <img src="screenshots/screenshots11.png" alt="Captura del Sistema" width="250">
+  </a>
+  <a href="screenshots/screenshots12.png" target="_blank">
+    <img src="screenshots/screenshots12.png" alt="Captura del Sistema" width="250">
+  </a>
+</p>
 
 ---
 
